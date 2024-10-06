@@ -14,7 +14,7 @@ This Go program reads a JSON file containing an array of objects, where each obj
 ## Requirements
 
 - Go 1.16 or later
-- A JSON file containing the data (see [large_data.json](./large_data.json))
+- A JSON file containing the data (see [large_data.json])
 
 ## Getting Started
 
