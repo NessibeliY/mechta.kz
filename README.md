@@ -21,8 +21,8 @@ This Go program reads a JSON file containing an array of objects, where each obj
 1. **Clone the Repository**
 
    ```bash
-   git clone <git@github.com:NessibeliY/mechta.kz.git>
-   cd <mechta.kz>
+   git clone git@github.com:NessibeliY/mechta.kz.git
+   cd mechta.kz
 
 2. **Run the program and add number of goroutines to the arguments**
 
